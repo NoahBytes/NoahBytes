@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoahBytes
 - 👀 I’m interested in Computer Science, Applied Mathematics, and Physics.
-- 🌱 I’m currently learning Data Structures and Algorithms, Assembly Lanugage (MIPS 2000), Calculus III, and Calculus-Based Probability and Statistics.
+- 🌱 I’m currently learning Software Engineering, Computer Systems Fundamentals, Real Analysis, Numerical Analysis, and Linear Algebra.
 
 <!---
 NoahBytes/NoahBytes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
